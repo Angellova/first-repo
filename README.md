@@ -1,2 +1,2 @@
 # first-rep
-My repository :)
+My repository
